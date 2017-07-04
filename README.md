@@ -6,6 +6,5 @@ Start cluster:
 **java -jar akka-cluster-${version}.jar [Options]**
 
 Options:
-
  -akka.port - default port 2551;
  -Dakka.cluster.seed-nodes.0=akka.tcp://ClusterSystem@host1:2552;
