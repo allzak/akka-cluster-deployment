@@ -3,7 +3,7 @@ Deployment tool to create akka cluster, to add new nodes, deploy actors
 
 Start cluster:
 
-##### java -jar akka-cluster-${version}.jar [Options]
+**java -jar akka-cluster-${version}.jar [Options]**
 
 Options:
 
